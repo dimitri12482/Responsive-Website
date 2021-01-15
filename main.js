@@ -43,8 +43,3 @@ sr.reveal(".animate-bottom", {
 
 
 
-
-
-
-
-
